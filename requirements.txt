@@ -1,0 +1,18 @@
+# Auction simulation requirements
+# usage: pip install -r requirements.txt
+
+# base
+numpy>=2.3.2
+pandas>=2.3.2
+torch>=2.8.0
+scipy>=1.16.1
+pyarrow>=21.0.0
+parso>=0.8.5
+jinja2>=3.1.6
+setuptools>=80.9.0
+
+# visualization
+matplotlib>=3.10.6
+
+# rl environment
+gymnasium>=1.2.0
