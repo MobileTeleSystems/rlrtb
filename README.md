@@ -111,7 +111,7 @@ Of course, the algorithms are not without nuances and not without shortcomings (
 
 | Title | Algorithm | Link | The year of publication | 
 | ------ | ------ | ------ | ------ |
-| Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising | DQN | [[Link]](https://browse.arxiv.org/pdf/1802.08365.pdf) | 2018 |
+| Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising | DQN | [[Link]](https://arxiv.org/pdf/1802.08365.pdf) | 2018 |
 | Real-Time Bidding with Multi-Agent Reinforcement Learning in Display Advertising | MADDPG | [[Link]](https://arxiv.org/pdf/1802.09756.pdf) | 2018 |
 | Real-Time Bidding with Soft Actor-Critic Reinforcement Learning in Display Advertising | SAC | [[Link]](https://fruct.org/publications/volume-25/fruct25/files/Yak.pdf) | 2019 |
 | A Dynamic Bidding Strategy Based on Model-Free Reinforcement Learning in Display Advertising | TD3 | [[Link]](https://ieeexplore.ieee.org/document/9258910)| 2020 |
